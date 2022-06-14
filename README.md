@@ -12,8 +12,10 @@
 
 ## Features
 - User Registration
-- User Authentication
 - User Login
+- User Authentication
+- Admin user can Edit/Delete user information
+- Normal user can only edit their own Profile
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
